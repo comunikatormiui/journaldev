@@ -8,7 +8,7 @@
 	<name>adal4jsample</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring.version>3.0.5.RELEASE</spring.version>
+		<spring.version>5.2.23.RELEASE</spring.version>
 	</properties>
 
 	<dependencies>
@@ -20,7 +20,7 @@
 		<dependency>
 			<groupId>com.nimbusds</groupId>
 			<artifactId>oauth2-oidc-sdk</artifactId>
-			<version>4.5</version>
+			<version>5.17.1</version>
 		</dependency>
 		<dependency>
 			<groupId>org.json</groupId>
